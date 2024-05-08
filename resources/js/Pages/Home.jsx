@@ -1,7 +1,7 @@
 import React from 'react';
 import {NavBar} from "@/Pages/NavBar";
 import '../../App.css';
-import BasicExample from "@/Pages/BasicExample";
+import {Banner} from "@/Pages/Banner";
 
 
 export default class Home extends React.Component {
@@ -9,12 +9,11 @@ export default class Home extends React.Component {
         super(props);
     }
 
-    K
-
     render() {
         return (
             <>
                 <NavBar/>
+                <Banner/>
             </>
         );
     }
