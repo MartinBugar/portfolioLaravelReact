@@ -14,8 +14,7 @@ export default class Home extends React.Component {
     render() {
         return (
             <>
-                <BasicExample/>
-                Here will be portfolio page. But now it is in progress.
+                <NavBar/>
             </>
         );
     }
