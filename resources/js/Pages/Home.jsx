@@ -3,6 +3,7 @@ import {NavBar} from "@/Pages/NavBar";
 import '../../App.css';
 import {Banner} from "@/Pages/Banner";
 import {Skills} from "@/Pages/Skills";
+import {Projects} from "@/Pages/Projects";
 
 
 export default class Home extends React.Component {
@@ -16,6 +17,7 @@ export default class Home extends React.Component {
                 <NavBar/>
                 <Banner/>
                 <Skills/>
+                <Projects/>
             </>
         );
     }
