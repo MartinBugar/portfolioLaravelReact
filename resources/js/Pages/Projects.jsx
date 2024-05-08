@@ -7,6 +7,7 @@ import youtube1 from "../../assets/img/youtube1.png";
 import expersoft from "../../assets/img/Expersoft.png";
 import gadrilling from "../../assets/img/GADRILLING.png";
 import interviewQ from "../../assets/img/interviewQ.png";
+import javaForBe from "../../assets/img/javaforbegginers.png";
 
 import colorSharp2 from "../../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
@@ -42,10 +43,10 @@ export const Projects = () => {
             webUrl: "https://youtu.be/6lf336mrkKk?list=PL6MVIumjKqoOCk621DinF7i1BAdrxXHsc",
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg3,
-            webUrl: "https://youtu.be/sHmBGtqJPyA?list=PL6MVIumjKqoPdkmfFq9524smQwB26QiFS",
+            title: "JAVA FOR BEGINNERS",
+            description: "course",
+            imgUrl: javaForBe,
+            webUrl: "https://youtu.be/32-ZIFrz_64?list=PL6MVIumjKqoO2BZwmyCCrNBTtse42T-9l",
         },
         {
             title: "Business Startup",
