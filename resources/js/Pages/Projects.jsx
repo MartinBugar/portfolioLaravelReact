@@ -8,6 +8,7 @@ import expersoft from "../../assets/img/Expersoft.png";
 import gadrilling from "../../assets/img/GADRILLING.png";
 import interviewQ from "../../assets/img/interviewQ.png";
 import javaForBe from "../../assets/img/javaforbegginers.png";
+import fun from "../../assets/img/FUN.png";
 
 import colorSharp2 from "../../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
@@ -49,10 +50,10 @@ export const Projects = () => {
             webUrl: "https://youtu.be/32-ZIFrz_64?list=PL6MVIumjKqoO2BZwmyCCrNBTtse42T-9l",
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg1,
-            webUrl: "https://youtu.be/sHmBGtqJPyA?list=PL6MVIumjKqoPdkmfFq9524smQwB26QiFS",
+            title: "SOME FUN :D",
+            description: "Programmer : movie vs. reality",
+            imgUrl: fun,
+            webUrl: "https://youtu.be/Nyns-S0a9lc",
         },
         {
             title: "Business Startup",
