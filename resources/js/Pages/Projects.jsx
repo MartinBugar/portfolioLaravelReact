@@ -76,13 +76,13 @@ export const Projects = () => {
             title: "Finance tracking management",
             description: "PHP Laravel + Vue.js + MySQL",
             imgUrl: mojefinancie,
-            webUrl: "https://youtu.be/iUtkTBjCPuw",
+            webUrl: "#",
         },
         {
             title: "Website for sharing STL models",
             description: "for 3D printing",
             imgUrl: industries,
-            webUrl: "https://youtu.be/iUtkTBjCPuw",
+            webUrl: "#",
         },
     ];
 
