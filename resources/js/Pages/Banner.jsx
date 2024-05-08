@@ -62,10 +62,16 @@ export const Banner = () => {
                                 <div className="animate__animated">
                                     <span className="tagline">Welcome to my Portfolio</span>
                                     <h1>{`Hi! I'm Martin, Java Developer`} </h1>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard dummy text ever since the 1500s, when an
-                                        unknown printer took a galley of type and scrambled it to make a type specimen
-                                        book.</p>
+                                    <p>
+                                        I consider myself an experienced and skilled Java backend developer with a knack
+                                        for crafting robust, efficient systems.
+                                        <br></br>
+                                        My expertise extends beyond Java to include SQL for database management and
+                                        Vue.js or Vaadin for dynamic user interfaces.
+                                        <br></br>
+                                        I thrive in the intricate world of backend development, seamlessly integrating
+                                        technologies to create powerful and responsive applications.
+                                    </p>
                                     <Router>
                                         <HashLink to='#connect' className="buttonLets">
                                             <button onClick={() => console.log('connect')}>Let’s
