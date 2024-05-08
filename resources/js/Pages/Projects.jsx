@@ -1,8 +1,6 @@
-import {Container, Row, Col, Tab, Nav} from "react-bootstrap";
+import {Col, Container, Nav, Row, Tab} from "react-bootstrap";
 import {ProjectCard} from "./ProjectCard";
-import projImg1 from "../../assets/img/project-img1.png";
 import projImg2 from "../../assets/img/project-img2.png";
-import projImg3 from "../../assets/img/project-img3.png";
 import youtube1 from "../../assets/img/youtube1.png";
 import expersoft from "../../assets/img/Expersoft.png";
 import gad from "../../assets/img/GADRILLING.png";
@@ -11,6 +9,8 @@ import javaForBe from "../../assets/img/javaforbegginers.png";
 import fun from "../../assets/img/FUN.png";
 import review from "../../assets/img/review.png";
 import tutorials from "../../assets/img/tutorials.png";
+import mojefinancie from "../../assets/img/mojefinancie2.jpg";
+import industries from "../../assets/img/industries.png";
 
 import colorSharp2 from "../../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
@@ -73,34 +73,16 @@ export const Projects = () => {
 
     const projects = [
         {
-            title: "Finance Management",
-            description: "Design & Development",
-            imgUrl: projImg1,
+            title: "Finance tracking management",
+            description: "PHP Laravel + Vue.js + MySQL",
+            imgUrl: mojefinancie,
+            webUrl: "https://youtu.be/iUtkTBjCPuw",
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg2,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg3,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg1,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg2,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg3,
+            title: "Website for sharing STL models",
+            description: "for 3D printing",
+            imgUrl: industries,
+            webUrl: "https://youtu.be/iUtkTBjCPuw",
         },
     ];
 
