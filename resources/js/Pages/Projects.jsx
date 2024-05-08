@@ -6,6 +6,7 @@ import projImg3 from "../../assets/img/project-img3.png";
 import youtube1 from "../../assets/img/youtube1.png";
 import expersoft from "../../assets/img/Expersoft.png";
 import gadrilling from "../../assets/img/GADRILLING.png";
+import interviewQ from "../../assets/img/interviewQ.png";
 
 import colorSharp2 from "../../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
@@ -35,10 +36,10 @@ export const Projects = () => {
             webUrl: "https://youtu.be/sHmBGtqJPyA?list=PL6MVIumjKqoPdkmfFq9524smQwB26QiFS",
         },
         {
-            title: "FULL STACK course",
-            description: "Design & Development",
-            imgUrl: projImg2,
-            webUrl: "https://youtu.be/sHmBGtqJPyA?list=PL6MVIumjKqoPdkmfFq9524smQwB26QiFS",
+            title: "Interview Questions",
+            description: "JAVA",
+            imgUrl: interviewQ,
+            webUrl: "https://youtu.be/6lf336mrkKk?list=PL6MVIumjKqoOCk621DinF7i1BAdrxXHsc",
         },
         {
             title: "Business Startup",
