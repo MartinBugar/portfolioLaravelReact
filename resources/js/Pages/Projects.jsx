@@ -5,10 +5,11 @@ import projImg2 from "../../assets/img/project-img2.png";
 import projImg3 from "../../assets/img/project-img3.png";
 import youtube1 from "../../assets/img/youtube1.png";
 import expersoft from "../../assets/img/Expersoft.png";
-import gadrilling from "../../assets/img/GADRILLING.png";
+import gad from "../../assets/img/GADRILLING.png";
 import interviewQ from "../../assets/img/interviewQ.png";
 import javaForBe from "../../assets/img/javaforbegginers.png";
 import fun from "../../assets/img/FUN.png";
+import review from "../../assets/img/review.png";
 
 import colorSharp2 from "../../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
@@ -26,7 +27,7 @@ export const Projects = () => {
         {
             title: "GA Drilling",
             description: "Design & Development",
-            imgUrl: gadrilling,
+            imgUrl: gad,
         },
     ];
 
@@ -56,10 +57,10 @@ export const Projects = () => {
             webUrl: "https://youtu.be/Nyns-S0a9lc",
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg2,
-            webUrl: "https://youtu.be/sHmBGtqJPyA?list=PL6MVIumjKqoPdkmfFq9524smQwB26QiFS",
+            title: "REVIEWS",
+            description: "of my coding setup",
+            imgUrl: review,
+            webUrl: "https://youtu.be/cQrwhwGAwNw",
         },
         {
             title: "Business Startup",
