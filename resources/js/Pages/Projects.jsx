@@ -10,6 +10,7 @@ import interviewQ from "../../assets/img/interviewQ.png";
 import javaForBe from "../../assets/img/javaforbegginers.png";
 import fun from "../../assets/img/FUN.png";
 import review from "../../assets/img/review.png";
+import tutorials from "../../assets/img/tutorials.png";
 
 import colorSharp2 from "../../assets/img/color-sharp2.png";
 import TrackVisibility from 'react-on-screen';
@@ -63,10 +64,10 @@ export const Projects = () => {
             webUrl: "https://youtu.be/cQrwhwGAwNw",
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg3,
-            webUrl: "https://youtu.be/sHmBGtqJPyA?list=PL6MVIumjKqoPdkmfFq9524smQwB26QiFS",
+            title: "JAVA FUNDAMENTALS",
+            description: "tutorials",
+            imgUrl: tutorials,
+            webUrl: "https://youtu.be/iUtkTBjCPuw",
         },
     ];
 
